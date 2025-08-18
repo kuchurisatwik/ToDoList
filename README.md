@@ -38,6 +38,10 @@ I wanted to understand:
 | `requirements.txt`  | Libraries that need to be installed                 |
 
 ---
+## Errors to Remember for not repeating in the Future
+
+-Better handle **Type Conversions** smoothly in python, which makes worse when we use type casting mutiple times in a simple function,refer:Decode function to know what the problem was.
+---
 
 ## How to Run (Step-By-Step)
 
