@@ -1,12 +1,12 @@
 # 📝 ToDoList (FastAPI) — Beginner Practice Project
 
-Hi! 👋  
+Hi
 This is a **small To-Do backend** that I created using **FastAPI** while practicing.  
-I’m still a **beginner** (only done about 2 FastAPI projects so far), so I tried to write everything in a clean and simple way so that other beginners can also understand.
+I’m still a **beginner** (only done about 2 to 3 FastAPI projects so far), so I tried to write everything in a clean and simple way so that I can also understand.
 
 ---
 
-## 💡 What this project is
+##  What this project is
 
 - A simple backend where you can **create**, **read**, **update**, and **delete** To-Do tasks.
 - It also has **user authentication** (login) just to practice how auth works in FastAPI.
@@ -14,7 +14,7 @@ I’m still a **beginner** (only done about 2 FastAPI projects so far), so I tri
 
 ---
 
-## 🧠 Why I built it
+## Why I built it
 
 I wanted to understand:
 - How FastAPI apps are **structured** (like where to put routes, models, schemas etc.)
@@ -24,7 +24,7 @@ I wanted to understand:
 
 ---
 
-## 📁 Project Structure (Very simple)
+## Project Structure (Very simple)
 
 | File/Folder         | What it does                                        |
 |---------------------|-----------------------------------------------------|
@@ -39,7 +39,7 @@ I wanted to understand:
 
 ---
 
-## ▶️ How to Run (Step-By-Step)
+## How to Run (Step-By-Step)
 
 **1. Clone the repo**
 
